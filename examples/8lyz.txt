@@ -1,0 +1,72 @@
+# 0 27 554, area 300.287 ( 9 residues)
+  R61: delta, zeta; W62: beta, delta1, delta2, epsilon2, epsilon3, gamma, eta2, zeta2, zeta3; 
+  W63: eta2, zeta2, zeta3; R73: beta, delta, gamma; N74: C; 
+  L75: alpha, beta, delta1, delta2, gamma; I98: gamma2; 
+  D101: beta, gamma; A107: beta; 
+# 1 19 530, area 288.629 ( 9 residues)
+  N65: beta; D66: alpha; N77: C; I78: C, alpha, beta, delta1, gamma1; 
+  P79: alpha, beta, delta, gamma; S81: beta; A82: alpha, beta; 
+  T89: beta, gamma2; A90: alpha, beta; 
+# 2 9 299, area 162.785 ( 5 residues)
+  G49: alpha; R68: alpha; T69: gamma2; P70: C, alpha, beta, delta, gamma; 
+  G71: alpha; 
+# 3 14 272, area 147.354 ( 7 residues)
+  E35: alpha, gamma; Q57: beta, gamma; W108: alpha, delta1; 
+  V109: beta, gamma1, gamma2; A110: alpha, beta; N113: beta; 
+  R114: delta, gamma; 
+# 4 10 246, area 133.804 ( 6 residues)
+  K13: epsilon; S24: beta; L25: beta, delta1; Q121: gamma; 
+  I124: delta1, gamma1; L129: C, beta, delta1; 
+# 5 14 242, area 130.809 ( 5 residues)
+  G22: C; Y23: delta1, epsilon1, epsilon2, zeta; W111: eta2, zeta2; 
+  K116: C, alpha, beta, delta, epsilon, gamma; G117: alpha; 
+# 6 14 239, area 129.936 ( 6 residues)
+  R5: delta; K33: epsilon; F34: delta2, epsilon1, epsilon2, zeta; 
+  F38: epsilon2; R114: beta; W123: delta2, epsilon2, epsilon3, eta2, zeta2, zeta3; 
+# 7 7 194, area 104.719 ( 4 residues)
+  K1: alpha; V2: beta, gamma1, gamma2; F38: beta; N39: beta, gamma; 
+# 8 5 191, area 103.627 ( 2 residues)
+  N46: C, alpha; T47: alpha, beta, gamma2; 
+# 9 8 188, area 101.394 ( 4 residues)
+  R5: beta; C6: C, beta, SG; G126: C, alpha; C127: alpha, beta; 
+# 10 9 179, area 97.734 ( 5 residues)
+  C76: beta; N93: C; K96: C, beta; K97: alpha, delta, epsilon, gamma; 
+  S100: beta; 
+# 11 5 161, area 87.197 ( 1 residues)
+  R128: C, alpha, beta, delta, gamma; 
+# 12 6 156, area 85.151 ( 3 residues)
+  A10: C; A11: alpha; R14: alpha, delta, gamma, zeta; 
+# 13 8 157, area 84.738 ( 4 residues)
+  G16: alpha; Y20: alpha, delta1, epsilon1, zeta; R21: gamma; 
+  K96: delta, epsilon; 
+# 14 8 154, area 84.252 ( 6 residues)
+  T43: beta, gamma2; T51: gamma2; Y53: epsilon1; D66: beta; 
+  S81: alpha; L84: beta, delta1; 
+# 15 6 142, area 77.377 ( 4 residues)
+  E7: alpha, gamma; A10: alpha, beta; A11: beta; L129: delta2; 
+# 16 7 141, area 76.366 ( 3 residues)
+  Q121: beta; I124: C; R125: C, alpha, beta, delta, gamma; 
+# 17 4 135, area 73.444 ( 3 residues)
+  L84: C; S85: alpha, beta; D87: beta; 
+# 18 6 119, area 64.613 ( 3 residues)
+  R114: C, alpha; G117: C; T118: alpha, beta, gamma2; 
+# 19 5 105, area 57.299 ( 2 residues)
+  N106: beta, gamma; R112: delta, gamma, zeta; 
+# 20 4 104, area 56.754 ( 2 residues)
+  T118: C; D119: alpha, beta, gamma; 
+# 21 5 101, area 54.758 ( 1 residues)
+  R45: C, beta, delta, gamma, zeta; 
+# 22 4 94, area 50.911 ( 2 residues)
+  T47: C; D48: alpha, beta, gamma; 
+# 23 4 84, area 45.554 ( 2 residues)
+  G67: C; R68: beta, delta, gamma; 
+# 24 4 72, area 38.957 ( 1 residues)
+  K1: beta, delta, epsilon, gamma; 
+# 25 4 57, area 30.929 ( 3 residues)
+  L75: C; C76: C; N77: beta, gamma; 
+# 26 4 52, area 28.191 ( 2 residues)
+  S36: C, alpha; A42: alpha, beta; 
+# 27 4 36, area 19.342 ( 3 residues)
+  F3: epsilon1, zeta; D87: alpha; I88: gamma1; 
+# 28 3 35, area 18.972 ( 2 residues)
+  V120: gamma1, gamma2; Q121: gamma; 

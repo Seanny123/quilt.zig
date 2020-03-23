@@ -1,0 +1,29 @@
+2014-11-13  Philip Lijnzaad  <philip@mayr.op.umcutrecht.nl>
+
+	* slight improvements to the release script. Version bump to version 1.1h
+
+2014-08-18  philip  <philip@laptop-philip>
+
+	* got rid of old getopts.pl.
+
+2014-01-20  philip  <philip@philip-laptop>
+
+	* scripts/patresidues: made to work with perl 5.9 regexps
+
+	* added initializer on utils/utils.c:__file__ and __line
+
+2011-11-15  philip  <philip@philip-laptop>
+
+	* Added the full citation details for the PatchTrack paper
+	referred to in the README.
+
+2009-11-30  Philip Lijnzaad  <p.lijnzaad@umcutrecht.nl>
+
+	* 1.c: ulong problem. Changed e-mail adresses. Now using 50
+	randomizations. Added defs for ulong and FILENAME_MAX for
+	compilation under MacOSX (unclear if works)
+
+2007-02-27  admin  <p.lijnzaad@med.uu.nl>
+
+	* 1.1b: clean up of the build-distrib.sh system and some general
+	        polishing, no big changes.

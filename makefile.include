@@ -1,0 +1,26 @@
+# -*- mode: Makefile; -*-
+# $Id: makefile.include,v 1.6 2007/03/07 11:57:17 philip Exp $
+
+# This file is to be included by a GNU Makefile
+
+# some common definitions
+
+SYS = $(shell uname)
+
+SHELL = /bin/sh
+CC = gcc
+#  maybe put CFLAGS here too ? 
+
+# prefix of the install (if you change this, also change setup.sh): 
+prefix = /usr/local
+# prefix = $(HOME)/$(SYS)
+
+# where binaries go (if you change this, also change setup.sh)
+bindir = $(prefix)/bin
+
+
+RM = rm
+INSTALL = install
+
+CC = gcc
+

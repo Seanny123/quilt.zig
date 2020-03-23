@@ -1,0 +1,42 @@
+select none
+select selected or *61.cd,*61.cz,*62.cb,*62.cg,*62.cd1
+select selected or *62.cd2,*62.ce2,*62.ce3,*62.cz2,*62.cz3
+select selected or *62.ch2,*63.cz2,*63.cz3,*63.ch2,*73.cb
+select selected or *73.cg,*73.cd,*74.c,*75.ca,*75.cb
+select selected or *75.cg,*75.cd1,*75.cd2,*98.cg2,*101.cb
+select selected or *101.cg,*107.cb
+define p0 selected
+select *61.cd
+define l0 selected
+echo struc   8lyz, patch  0, area  300.3,  27 atoms
+select none
+select selected or *65.cb,*66.ca,*77.c,*78.ca,*78.c
+select selected or *78.cb,*78.cg1,*78.cd1,*79.ca,*79.cb
+select selected or *79.cg,*79.cd,*81.cb,*82.ca,*82.cb
+select selected or *89.cb,*89.cg2,*90.ca,*90.cb
+define p1 selected
+select *65.cb
+define l1 selected
+echo struc   8lyz, patch  1, area  288.6,  19 atoms
+select none
+select selected or *49.ca,*68.ca,*69.cg2,*70.ca,*70.c
+select selected or *70.cb,*70.cg,*70.cd,*71.ca
+define p2 selected
+select *49.ca
+define l2 selected
+echo struc   8lyz, patch  2, area  162.8,   9 atoms
+select none
+select selected or *35.ca,*35.cg,*57.cb,*57.cg,*108.ca
+select selected or *108.cd1,*109.cb,*109.cg1,*109.cg2,*110.ca
+select selected or *110.cb,*113.cb,*114.cg,*114.cd
+define p3 selected
+select *35.ca
+define l3 selected
+echo struc   8lyz, patch  3, area  147.4,  14 atoms
+select none
+select selected or *13.ce,*24.cb,*25.cb,*25.cd1,*121.cg
+select selected or *124.cg1,*124.cd1,*129.c,*129.cb,*129.cd1
+define p4 selected
+select *13.ce
+define l4 selected
+echo struc   8lyz, patch  4, area  133.8,  10 atoms

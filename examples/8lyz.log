@@ -1,0 +1,2098 @@
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading ../8lyz.pdb
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.pdb not found in DSSPPATH
+structure 8lyz.pdb not found
+no dssp file for 8lyz.pdb
+file .quilt-spheres.Linux not found in .:/home/gen/philip
+template spheres not found; generating them ...
+doing subdivision of order points edges faces:
+ 0  12  30  20
+ 1  32  90  60
+ 2  42 120  80
+ 3  92 270 180
+ 4 122 360 240
+ 5 162 480 320
+ 6 252 750 500
+done
+done; now writing template spheres to .quilt-spheres.Linux ...  at (null) line 0
+done
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6623.339 3519.344 3103.995 0.531
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+720 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+found 0 connections among boundries (2nd time)
+256 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.247451289936
+redistributed 70 O atoms, area fraction 0.220180424641 -> 0.217833289080
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+454 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6669.035 3364.785 3304.251 0.505
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+724 atoms got completely buried (2nd time)
+SHARED; deleting point 128 [ atom 288, ( N  37 @ NG  ) ]
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 404, ( D  52 @ CD2 ) ]
+patch has only 2 neighbouring patches [ atom 622, ( P  79 @ CG  ) ]
+found 0 connections among boundries (2nd time)
+118 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.247197419666
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.219170021191
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+448 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6687.852 3408.287 3279.565 0.510
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+711 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 586, ( N  74 @ CD2 ) ]
+patch has only 2 neighbouring patches [ atom 871, ( N  113 @ CD2 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+found 0 connections among boundries (2nd time)
+129 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.245015734566
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.216268701420
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+453 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6707.120 3366.713 3340.407 0.502
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ OH1 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+700 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 105 [ atom 987, ( R  128 @ ND  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+186 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.247296179658
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.219962069543
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+455 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6681.551 3291.759 3389.792 0.493
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+703 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 636, ( A  82 @ N   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+207 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.247788783598
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.216857744270
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6695.896 3416.417 3279.479 0.510
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+708 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 53 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 196 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 371, ( T  47 @ CG2 ) ]
+patch has only 1 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 1 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+150 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 69 N atoms, area fraction 0.248468652737 -> 0.246500890938
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.219932002175
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+454 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6655.442 3313.515 3341.927 0.498
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+705 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 15 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ NH2 ) ]
+found 0 connections among boundries (2nd time)
+163 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 70 N atoms, area fraction 0.248468652737 -> 0.245863363600
+redistributed 81 O atoms, area fraction 0.220180424641 -> 0.215809779997
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+447 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6734.546 3434.340 3300.206 0.510
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+708 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+156 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.246921215304
+redistributed 72 O atoms, area fraction 0.220180424641 -> 0.217916235528
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6672.098 3396.248 3275.850 0.509
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+700 atoms got completely buried (2nd time)
+SHARED; deleting point 15 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 53 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+158 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.248439559942
+redistributed 72 O atoms, area fraction 0.220180424641 -> 0.218381370667
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+457 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6670.688 3353.158 3317.530 0.503
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+705 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 576, ( R  73 @ NZ  ) ]
+patch has only 2 neighbouring patches [ atom 995, ( L  129 @ C   ) ]
+found 0 connections among boundries (2nd time)
+143 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 72 N atoms, area fraction 0.248468652737 -> 0.246416100242
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.218885865354
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+451 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6706.395 3424.799 3281.596 0.511
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+700 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+found 0 connections among boundries (2nd time)
+168 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 72 N atoms, area fraction 0.248468652737 -> 0.243310347952
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.213097077886
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6676.736 3341.434 3335.302 0.500
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+703 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 71 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 132 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 133 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 146 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 147 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 196 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 197 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 2 neighbouring patches [ atom 325, ( Q  41 @ CE2 ) ]
+patch has only 2 neighbouring patches [ atom 989, ( R  128 @ NZ  ) ]
+found 0 connections among boundries (2nd time)
+191 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 68 N atoms, area fraction 0.248468652737 -> 0.245583118022
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.219678604222
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+449 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6642.666 3371.078 3271.588 0.507
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+706 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 492, ( W  62 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 621, ( P  79 @ CB  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+201 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 69 N atoms, area fraction 0.248468652737 -> 0.247141545568
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.218481738060
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+451 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6680.515 3327.774 3352.741 0.498
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ OH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+710 atoms got completely buried (2nd time)
+SHARED; deleting point 55 [ atom 364, ( N  46 @ OD2 ) ]
+SHARED; deleting point 57 [ atom 364, ( N  46 @ OD2 ) ]
+SHARED; deleting point 106 [ atom 364, ( N  46 @ OD2 ) ]
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 71 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 132 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 133 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 146 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 147 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 196 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 197 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 989, ( R  128 @ NZ  ) ]
+found 0 connections among boundries (2nd time)
+156 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.248423469402
+redistributed 74 O atoms, area fraction 0.220180424641 -> 0.217612003092
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+447 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6654.628 3309.378 3345.250 0.497
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+704 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 78 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 146 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 147 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 196 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 197 [ atom 988, ( R  128 @ NE  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ OH1 ) ]
+patch has only 2 neighbouring patches [ atom 621, ( P  79 @ CB  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+found 0 connections among boundries (2nd time)
+163 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.247014169699
+redistributed 68 O atoms, area fraction 0.220180424641 -> 0.219856337154
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+447 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6668.908 3310.995 3357.912 0.496
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+707 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 636, ( A  82 @ N   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+found 0 connections among boundries (2nd time)
+197 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 71 N atoms, area fraction 0.248468652737 -> 0.246258116664
+redistributed 80 O atoms, area fraction 0.220180424641 -> 0.218669166301
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+445 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6721.759 3420.882 3300.877 0.509
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 378, ( D  48 @ OD1 ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+692 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 492, ( W  62 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+168 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.243994996814
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.219516020121
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+459 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6664.860 3379.223 3285.638 0.507
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 378, ( D  48 @ OD1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+706 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+found 0 connections among boundries (2nd time)
+209 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 72 N atoms, area fraction 0.248468652737 -> 0.246195269767
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.217317185733
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+450 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6660.116 3373.333 3286.783 0.506
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+703 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (2nd time)
+134 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.247610333975
+redistributed 74 O atoms, area fraction 0.220180424641 -> 0.218524575063
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+449 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6704.270 3353.066 3351.204 0.500
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+706 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 413, ( Y  53 @ CE1 ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 745, ( K  97 @ CE  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+148 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 76 N atoms, area fraction 0.248468652737 -> 0.245930305312
+redistributed 74 O atoms, area fraction 0.220180424641 -> 0.219659192874
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+450 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6703.583 3425.192 3278.391 0.511
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+707 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 745, ( K  97 @ CE  ) ]
+patch has only 2 neighbouring patches [ atom 913, ( D  119 @ CB  ) ]
+found 0 connections among boundries (2nd time)
+144 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.247191665272
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.216628687586
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+454 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6663.181 3330.398 3332.782 0.500
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 378, ( D  48 @ OD1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+697 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (2nd time)
+171 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 69 N atoms, area fraction 0.248468652737 -> 0.244785942370
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.215614220734
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6711.822 3506.358 3205.464 0.522
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+698 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 371, ( T  47 @ CG2 ) ]
+patch has only 2 neighbouring patches [ atom 972, ( G  126 @ CA  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 995, ( L  129 @ C   ) ]
+found 0 connections among boundries (2nd time)
+176 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.244547384215
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.219442676395
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6656.897 3357.155 3299.741 0.504
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+692 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 121 [ atom 785, ( N  103 @ NG  ) ]
+SHARED; deleting point 122 [ atom 785, ( N  103 @ NG  ) ]
+SHARED; deleting point 125 [ atom 785, ( N  103 @ NG  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 2 neighbouring patches [ atom 325, ( Q  41 @ CE2 ) ]
+patch has only 1 neighbouring patches [ atom 787, ( N  103 @ CD2 ) ]
+found 0 connections among boundries (2nd time)
+155 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.247788783598
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.216857744270
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6695.896 3416.417 3279.479 0.510
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+708 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 53 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 196 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 371, ( T  47 @ CG2 ) ]
+patch has only 1 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 1 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+150 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.242644899445
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.218264161895
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+458 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6627.326 3424.390 3202.935 0.517
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 492, ( W  62 @ OH2 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+713 atoms got completely buried (2nd time)
+SHARED; deleting point 47 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 78 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 80 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 146 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 147 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 173 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 196 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 197 [ atom 988, ( R  128 @ NE  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+found 0 connections among boundries (2nd time)
+116 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.246683984947
+redistributed 73 O atoms, area fraction 0.220180424641 -> 0.220027831631
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6641.639 3261.310 3380.330 0.491
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 95, ( K  13 @ OE  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+692 atoms got completely buried (2nd time)
+SHARED; deleting point 146 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 147 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 196 [ atom 988, ( R  128 @ NE  ) ]
+SHARED; deleting point 197 [ atom 988, ( R  128 @ NE  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 995, ( L  129 @ C   ) ]
+found 0 connections among boundries (2nd time)
+213 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.248325232784
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.219713598806
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6688.575 3324.636 3363.939 0.497
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+700 atoms got completely buried (2nd time)
+SHARED; deleting point 6 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 9 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 11 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 28 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 30 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 9 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 10 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 22 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 27 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 53 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 56 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 57 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 78 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 80 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 103 [ atom 987, ( R  128 @ ND  ) ]
+SHARED; deleting point 105 [ atom 987, ( R  128 @ ND  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 788, ( G  104 @ N   ) ]
+patch has only 1 neighbouring patches [ atom 932, ( Q  121 @ CE2 ) ]
+found 0 connections among boundries (2nd time)
+159 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.244396504173
+redistributed 74 O atoms, area fraction 0.220180424641 -> 0.219200781192
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+448 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6690.748 3477.195 3213.553 0.520
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 378, ( D  48 @ OD1 ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+702 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 1 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 2 neighbouring patches [ atom 787, ( N  103 @ CD2 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 995, ( L  129 @ C   ) ]
+found 0 connections among boundries (2nd time)
+139 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.246644779662
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.219078712062
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+450 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6685.214 3359.318 3325.896 0.502
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+695 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (2nd time)
+174 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.246217213558
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.219446355229
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+457 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6662.105 3290.600 3371.504 0.494
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+701 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 492, ( W  62 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 931, ( Q  121 @ CE1 ) ]
+found 0 connections among boundries (2nd time)
+200 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 78 N atoms, area fraction 0.248468652737 -> 0.247212816877
+redistributed 73 O atoms, area fraction 0.220180424641 -> 0.218384536573
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+455 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6677.999 3344.931 3333.068 0.501
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+698 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 2 neighbouring patches [ atom 972, ( G  126 @ CA  ) ]
+found 0 connections among boundries (2nd time)
+189 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 67 N atoms, area fraction 0.248468652737 -> 0.247855940090
+redistributed 77 O atoms, area fraction 0.220180424641 -> 0.216437552982
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+449 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6699.317 3344.051 3355.267 0.499
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+715 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 2 neighbouring patches [ atom 556, ( P  70 @ CG  ) ]
+found 0 connections among boundries (2nd time)
+133 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 72 N atoms, area fraction 0.248468652737 -> 0.247840595711
+redistributed 72 O atoms, area fraction 0.220180424641 -> 0.218589348103
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+460 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6655.336 3298.237 3357.099 0.496
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+706 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (2nd time)
+166 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 78 N atoms, area fraction 0.248468652737 -> 0.246973524793
+redistributed 70 O atoms, area fraction 0.220180424641 -> 0.218758305044
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+459 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6650.778 3304.174 3346.604 0.497
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+710 atoms got completely buried (2nd time)
+SHARED; deleting point 145 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 153 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 218 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 121 [ atom 785, ( N  103 @ NG  ) ]
+SHARED; deleting point 122 [ atom 785, ( N  103 @ NG  ) ]
+SHARED; deleting point 125 [ atom 785, ( N  103 @ NG  ) ]
+patch has only 2 neighbouring patches [ atom 46, ( C  6 @ CB  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 1 neighbouring patches [ atom 787, ( N  103 @ CD2 ) ]
+found 0 connections among boundries (2nd time)
+164 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.242483837533
+redistributed 70 O atoms, area fraction 0.220180424641 -> 0.218898111255
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+449 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6658.296 3331.919 3326.377 0.500
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+708 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 556, ( P  70 @ CG  ) ]
+patch has only 2 neighbouring patches [ atom 899, ( G  117 @ CA  ) ]
+found 0 connections among boundries (2nd time)
+160 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.243994996814
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.219516020121
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+459 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6664.860 3379.223 3285.638 0.507
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 378, ( D  48 @ OD1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+706 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+found 0 connections among boundries (2nd time)
+209 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.241232378121
+redistributed 75 O atoms, area fraction 0.220180424641 -> 0.218377594128
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+451 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6680.967 3372.905 3308.062 0.505
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+699 atoms got completely buried (2nd time)
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 714, ( N  93 @ NB  ) ]
+patch has only 2 neighbouring patches [ atom 811, ( A  107 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 931, ( Q  121 @ CE1 ) ]
+found 0 connections among boundries (2nd time)
+202 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 68 N atoms, area fraction 0.248468652737 -> 0.245897582103
+redistributed 72 O atoms, area fraction 0.220180424641 -> 0.216924304442
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+450 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6647.802 3268.676 3379.126 0.492
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+698 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 289, ( N  37 @ CD1 ) ]
+patch has only 2 neighbouring patches [ atom 478, ( R  61 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 635, ( S  81 @ CG  ) ]
+patch has only 2 neighbouring patches [ atom 913, ( D  119 @ CB  ) ]
+found 0 connections among boundries (2nd time)
+206 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 73 N atoms, area fraction 0.248468652737 -> 0.247659803745
+redistributed 73 O atoms, area fraction 0.220180424641 -> 0.217943485627
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+449 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6669.699 3311.682 3358.017 0.497
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ NH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+714 atoms got completely buried (2nd time)
+SHARED; deleting point 145 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 153 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 218 [ atom 323, ( Q  41 @ ND  ) ]
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 2 neighbouring patches [ atom 733, ( K  96 @ CB  ) ]
+patch has only 2 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+130 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 71 N atoms, area fraction 0.248468652737 -> 0.246929191971
+redistributed 76 O atoms, area fraction 0.220180424641 -> 0.216641834070
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+458 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6668.340 3356.726 3311.614 0.503
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ NH1 ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+696 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (2nd time)
+232 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 71 N atoms, area fraction 0.248468652737 -> 0.247220903227
+redistributed 70 O atoms, area fraction 0.220180424641 -> 0.219941467952
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+441 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6649.274 3261.941 3387.333 0.491
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+711 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+found 0 connections among boundries (2nd time)
+148 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.243992058691
+redistributed 69 O atoms, area fraction 0.220180424641 -> 0.218949034756
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+446 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6678.433 3329.613 3348.821 0.499
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+699 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 478, ( R  61 @ CH2 ) ]
+patch has only 2 neighbouring patches [ atom 556, ( P  70 @ CG  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+193 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.247788783598
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.216857744270
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6695.896 3416.417 3279.479 0.510
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+708 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 53 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 196 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 371, ( T  47 @ CG2 ) ]
+patch has only 1 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 1 neighbouring patches [ atom 991, ( R  128 @ CH2 ) ]
+found 0 connections among boundries (2nd time)
+150 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 70 N atoms, area fraction 0.248468652737 -> 0.244659422808
+redistributed 73 O atoms, area fraction 0.220180424641 -> 0.219174867957
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+456 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6671.654 3350.272 3321.382 0.502
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+700 atoms got completely buried (2nd time)
+SHARED; deleting point 145 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 153 [ atom 323, ( Q  41 @ ND  ) ]
+SHARED; deleting point 218 [ atom 323, ( Q  41 @ ND  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 2 neighbouring patches [ atom 812, ( A  107 @ OB  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ OH1 ) ]
+found 0 connections among boundries (2nd time)
+196 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 77 N atoms, area fraction 0.248468652737 -> 0.248097032947
+redistributed 70 O atoms, area fraction 0.220180424641 -> 0.216235707553
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+451 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6659.595 3322.250 3337.344 0.499
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+705 atoms got completely buried (2nd time)
+SHARED; deleting point 15 [ atom 989, ( R  128 @ NZ  ) ]
+SHARED; deleting point 53 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 556, ( P  70 @ CG  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 995, ( L  129 @ C   ) ]
+found 0 connections among boundries (2nd time)
+136 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 69 N atoms, area fraction 0.248468652737 -> 0.245544473974
+redistributed 72 O atoms, area fraction 0.220180424641 -> 0.215342264410
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+453 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6688.938 3425.998 3262.940 0.512
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+704 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 324, ( Q  41 @ CE1 ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+found 0 connections among boundries (2nd time)
+187 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 74 N atoms, area fraction 0.248468652737 -> 0.247501719282
+redistributed 71 O atoms, area fraction 0.220180424641 -> 0.218091598922
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+447 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6700.981 3366.487 3334.494 0.502
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+705 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 33 [ atom 487, ( W  62 @ OE1 ) ]
+SHARED; deleting point 36 [ atom 487, ( W  62 @ OE1 ) ]
+SHARED; deleting point 97 [ atom 487, ( W  62 @ OE1 ) ]
+SHARED; deleting point 98 [ atom 487, ( W  62 @ OE1 ) ]
+SHARED; deleting point 145 [ atom 811, ( A  107 @ N   ) ]
+SHARED; deleting point 158 [ atom 811, ( A  107 @ N   ) ]
+SHARED; deleting point 198 [ atom 811, ( A  107 @ N   ) ]
+SHARED; deleting point 6 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 9 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 30 [ atom 930, ( Q  121 @ ND  ) ]
+SHARED; deleting point 15 [ atom 989, ( R  128 @ NZ  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 932, ( Q  121 @ CE2 ) ]
+patch has only 1 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+225 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 69 N atoms, area fraction 0.248468652737 -> 0.246275828809
+redistributed 81 O atoms, area fraction 0.220180424641 -> 0.219391648258
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+451 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6697.294 3406.450 3290.844 0.509
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ NH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+701 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 556, ( P  70 @ CG  ) ]
+found 0 connections among boundries (2nd time)
+169 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 75 N atoms, area fraction 0.248468652737 -> 0.246514590893
+redistributed 76 O atoms, area fraction 0.220180424641 -> 0.219519733178
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+452 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6693.212 3369.121 3324.091 0.503
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 803, ( N  106 @ O   ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+698 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 96, ( K  13 @ CZ  ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ CH1 ) ]
+found 0 connections among boundries (2nd time)
+141 atomic faces border several patches; assigned to largest
+
+
+
+quilt version 0.9o
+
+Copyright Philip Lijnzaad
+
+
+*** err_file not set explicitly using set_err_file(); using stderr instead
+reading 8lyz.area
+read 19 atom types from /home/gen/philip/.atoms
+read 50 residue types from /home/gen/philip/.residues
+read 1 chains, 129 residues, 1000 atoms
+file 8lyz.area not found in DSSPPATH
+structure 8lyz.area not found
+no dssp file for 8lyz.area
+47 N, 59 O, 118 C, 1 S, total 225 *surface* atoms
+redistributed 78 N atoms, area fraction 0.248468652737 -> 0.247663683907
+redistributed 74 O atoms, area fraction 0.220180424641 -> 0.217442435305
+reading file .quilt-spheres.Linux ...
+radii after pre-processing between   2.8 and   3.3
+grid cell size is 6.600 Angstrom
+dimensions of box holding protein: 6 x 5 x 7
+446 atoms got completely buried (first time)
+total, hydrophobic, hydrophylic area, hfob ratio: 6692.958 3380.281 3312.678 0.505
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 2 neighbouring patches [ atom 672, ( D  87 @ O   ) ]
+patch has only 2 neighbouring patches [ atom 990, ( R  128 @ CH1 ) ]
+found 0 connections among boundries (first time)
+
+radii after pre-processing between   2.8 and   4.5
+grid cell size is 9.000 Angstrom
+dimensions of box holding protein: 5 x 4 x 5
+699 atoms got completely buried (2nd time)
+no connections; deleted point 121 [ atom 435, ( L  56 @ CD1 ) ]
+SHARED; deleting point 122 [ atom 576, ( R  73 @ NZ  ) ]
+SHARED; deleting point 156 [ atom 576, ( R  73 @ NZ  ) ]
+SHARED; deleting point 157 [ atom 576, ( R  73 @ NZ  ) ]
+SHARED; deleting point 217 [ atom 576, ( R  73 @ NZ  ) ]
+SHARED; deleting point 74 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 80 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 138 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 139 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 140 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 159 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 162 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 164 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 199 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 200 [ atom 986, ( R  128 @ NG  ) ]
+SHARED; deleting point 204 [ atom 986, ( R  128 @ NG  ) ]
+patch has only 1 neighbouring patches [ atom 86, ( M  12 @ SD  ) ]
+patch has only 1 neighbouring patches [ atom 532, ( G  67 @ C   ) ]
+patch has only 2 neighbouring patches [ atom 577, ( R  73 @ CH1 ) ]
+patch has only 2 neighbouring patches [ atom 899, ( G  117 @ CA  ) ]
+found 0 connections among boundries (2nd time)
+187 atomic faces border several patches; assigned to largest
+
